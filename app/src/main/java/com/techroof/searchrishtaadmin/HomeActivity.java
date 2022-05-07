@@ -21,7 +21,7 @@ public class HomeActivity extends AppCompatActivity {
         crdActivatedusers.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent movetoAppliedUsers=new Intent(HomeActivity.this, AppliedUsers.class);
+                Intent movetoAppliedUsers=new Intent(HomeActivity.this, ShowAppliedUsers.class);
                 startActivity(movetoAppliedUsers);
             }
         });

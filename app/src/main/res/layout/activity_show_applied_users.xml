@@ -6,8 +6,41 @@
     android:layout_height="match_parent"
     tools:context=".ShowAppliedUsers">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rv_show_applied_users"
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tablayoutShowApplied"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="wrap_content"
+        android:background="@color/tabcolor"
+        app:tabIndicatorColor="@color/textview_color"
+        app:tabTextColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/black">
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Monday" />
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tuesday" />
+
+
+
+    </com.google.android.material.tabs.TabLayout>
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewpager_ShowApplied"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toBottomOf="@+id/tablayoutShowApplied"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

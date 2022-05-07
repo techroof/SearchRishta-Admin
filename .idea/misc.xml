@@ -7,8 +7,13 @@
         <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/drawable/roundedbutton.xml" value="0.2203125" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/activity_activating_users.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/activity_show_applied_users.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/custom_activated_recyclerview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/custom_pending_recyclerview.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/custom_recyclerview_activating_users.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/fragment_activated.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/fragment_pending.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/roundedbutton.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SearchRishtaAdmin/app/src/main/res/layout/showappliedusers_custom_recyclerview.xml" value="0.33" />
       </map>
